@@ -1,6 +1,6 @@
 # ArtyTravel
 
-Our app, ArtyTravel combines the travelling idea with the one of music and art by offering some packages the include accomodation, transportation and tickets
+Our app, ArtyTravel combines the travelling idea with the one of music and art by offering some packages that include accomodation, transportation and tickets
 to the specified event. The packages are both predefined and personalizable, so that people can enjoy concerts, festivals, art and the culture 
 of that country.
 
