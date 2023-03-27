@@ -9,3 +9,5 @@ I can use the filter for the packages to select the confort (hostel, 5 star hote
 
 After adding them into the cart, I can buy them and see all my past journeys/purchases on the user page, under my profile.
 What I find interesting, is that if I want so, I can find a trip partner.
+
+Website mock-up: https://www.figma.com/file/FJAOnFXyhRTaW5J7o6rsWw/ArtyTravel-Project?node-id=0%3A1&t=6ZFfhcbE6AiWaHNz-1
